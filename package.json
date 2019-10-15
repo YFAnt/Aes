@@ -1,0 +1,19 @@
+{
+  "name": "aes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "locs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YFAnt/Aes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YFAnt/Aes/issues"
+  },
+  "homepage": "https://github.com/YFAnt/Aes#readme"
+}
